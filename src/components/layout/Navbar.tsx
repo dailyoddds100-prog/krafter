@@ -48,9 +48,9 @@ export const Navbar: React.FC = () => {
             <span className="font-extrabold text-base sm:text-lg tracking-tight text-neutral-900 block leading-tight">
               {SITE_CONFIG.brandName}
             </span>
-            <span className="text-[10px] font-semibold text-blue-600 tracking-wider uppercase block">
+            {/* <span className="text-[10px] font-semibold text-blue-600 tracking-wider uppercase block">
               Web Studio
-            </span>
+            </span> */}
           </div>
         </button>
 
